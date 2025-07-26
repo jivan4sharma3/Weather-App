@@ -17,6 +17,8 @@ A simple and responsive Weather App built using HTML, CSS, and JavaScript that a
 - **JavaScript (Vanilla JS)**
 - **[OpenWeatherMap API](https://openweathermap.org/api)**
 
+## Live Demo 
+link :  https://jivan4sharma3.github.io/Weather-App/
 ## ⚙️ How It Works
 
 1. User enters a city name in the input field.
